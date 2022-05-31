@@ -1,4 +1,5 @@
 import logo from'../img/reactjs-icon.png'
+import React from 'react'
 import './Navbar.css'
 
 export default function Navbar() {
